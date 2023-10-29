@@ -44,7 +44,7 @@ Provide step-by-step instructions on how to install and run your project.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/sohanpaliyal/your-repo.git
 
 # Navigate to the project folder
 cd your-repo
