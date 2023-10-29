@@ -3,7 +3,7 @@
 
 ## Table of Contents
 - [Project Name](#react-posts-with-store)
-- [Description](#)
+- [Description](#Description)
 - [Features](#features)
 - [Demo](#demo)
 - [Getting Started](#getting-started)
